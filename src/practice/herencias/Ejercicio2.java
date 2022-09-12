@@ -1,4 +1,4 @@
-package practica.herencias;
+package practice.herencias;
 
 import java.time.LocalDate;
 
