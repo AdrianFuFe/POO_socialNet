@@ -1,7 +1,5 @@
 package es.imatia.units;
 
-import java.util.Scanner;
-
 
 public class Car {
 	public String brand;
@@ -134,6 +132,7 @@ public class Car {
 		if (!this.reverse) {
 			
 		}
+		return reverse;
 	}
 	
 	
